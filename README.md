@@ -1,2 +1,2 @@
 # OneClassClassification
-One class image classification with pytorch
+One class image classification with pytorch.
